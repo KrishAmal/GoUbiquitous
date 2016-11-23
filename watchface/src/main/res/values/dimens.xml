@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="digital_text_size">40dp</dimen>
+    <dimen name="digital_text_size_round">45dp</dimen>
+    <dimen name="digital_x_offset">50dp</dimen>
+    <dimen name="digital_x_offset_round">50dp</dimen>
+    <dimen name="digital_y_offset">30dp</dimen>
+
+    <!--Custom Watch Face-->
+    <dimen name="date_x_offset">55dp</dimen>
+    <dimen name="date_x_offset_round">55dp</dimen>
+    <dimen name="date_text_size">20dp</dimen>
+    <dimen name="date_text_size_round">25dp</dimen>
+
+    <dimen name="high_temp_x_offset">10dp</dimen>
+    <dimen name="high_temp_x_offset_round">10dp</dimen>
+    <dimen name="high_temp_y_offset">52dp</dimen>
+    <dimen name="high_text_size">24dp</dimen>
+    <dimen name="high_text_size_round">26dp</dimen>
+
+    <dimen name="low_temp_x_offset">40dp</dimen>
+    <dimen name="low_temp_x_offset_round">40dp</dimen>
+    <dimen name="low_temp_y_offset">52dp</dimen>
+    <dimen name="low_text_size">24dp</dimen>
+    <dimen name="low_text_size_round">26dp</dimen>
+
+    <dimen name="line_x_start_offset">30dp</dimen>
+    <dimen name="line_x_stop_offset">30dp</dimen>
+    <dimen name="line_y_start_offset">13dp</dimen>
+    <dimen name="line_y_stop_offset">13dp</dimen>
+
+    <dimen name="icon_x_offset_all">70dp</dimen>
+    <dimen name="icon_y_offset_all">20dp</dimen>
+
+</resources>
